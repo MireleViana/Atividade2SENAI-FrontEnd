@@ -1,0 +1,3 @@
+Excluir pessoas:
+1 - Excluir todos
+2 - Excluir por nome
