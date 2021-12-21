@@ -1,0 +1,5 @@
+Funcionalidades:
+Cadastro de Pessoas
+Consulta de Pessoas
+Exclusão de Pessoas
+Atualização de Sistema
