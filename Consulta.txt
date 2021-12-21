@@ -1,0 +1,3 @@
+Listar pessoas cadastradas
+1 - Em ordem alfabética
+2 - Em ordem de idade
