@@ -3,3 +3,4 @@ Nome
 Idade
 Sexo
 Cidade
+Curso
